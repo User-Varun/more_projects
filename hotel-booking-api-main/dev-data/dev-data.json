@@ -1,0 +1,279 @@
+[
+  {
+    "name": "Grand Palace Hotel",
+    "location": "New York, USA",
+    "rooms_available": 25,
+    "price_per_night": 200,
+    "rating": 4.5,
+    "facilities": ["Free WiFi", "Breakfast Included", "Swimming Pool", "Gym"],
+    "contact_number": "+1 234 567 890",
+    "email": "contact@grandpalace.com",
+    "pets_allowed": true,
+    "rating_count": 320,
+    "distance_from_city_center": 5
+  },
+  {
+    "name": "Royal Suite Resort",
+    "location": "Paris, France",
+    "rooms_available": 0,
+    "price_per_night": 300,
+    "rating": 4.7,
+    "facilities": ["Free WiFi", "Spa", "Restaurant", "Bar"],
+    "contact_number": "+33 1 234 567 890",
+    "email": "contact@royalsuite.com",
+
+    "pets_allowed": false,
+    "rating_count": 450,
+    "distance_from_city_center": 2
+  },
+  {
+    "name": "Ocean View Hotel",
+    "location": "Miami, USA",
+    "rooms_available": 15,
+    "price_per_night": 250,
+    "rating": 4.2,
+    "facilities": ["Free WiFi", "Beach Access", "Swimming Pool", "Gym"],
+    "contact_number": "+1 305 567 890",
+    "email": "contact@oceanview.com",
+    "pets_allowed": true,
+    "rating_count": 280,
+    "distance_from_city_center": 8
+  },
+  {
+    "name": "Mountain Retreat",
+    "location": "Denver, USA",
+    "rooms_available": 0,
+    "price_per_night": 180,
+    "rating": 4.1,
+    "facilities": ["Free WiFi", "Hiking Trails", "Restaurant", "Gym"],
+    "contact_number": "+1 303 567 890",
+    "email": "contact@mountainretreat.com",
+
+    "pets_allowed": true,
+    "rating_count": 150,
+    "distance_from_city_center": 10
+  },
+  {
+    "name": "City Center Hotel",
+    "location": "Tokyo, Japan",
+    "rooms_available": 50,
+    "price_per_night": 220,
+    "rating": 4.6,
+    "facilities": ["Free WiFi", "Restaurant", "Bar", "Gym"],
+    "contact_number": "+81 3 1234 5678",
+    "email": "contact@citycenterhotel.com",
+
+    "pets_allowed": false,
+    "rating_count": 400,
+    "distance_from_city_center": 1
+  },
+  {
+    "name": "Desert Oasis Resort",
+    "location": "Dubai, UAE",
+    "rooms_available": 35,
+    "price_per_night": 350,
+    "rating": 4.8,
+    "facilities": ["Free WiFi", "Swimming Pool", "Spa", "Restaurant"],
+    "contact_number": "+971 4 1234 5678",
+    "email": "contact@desertoasis.com",
+    "pets_allowed": false,
+    "rating_count": 520,
+    "distance_from_city_center": 15
+  },
+  {
+    "name": "Seaside Inn",
+    "location": "Barcelona, Spain",
+    "rooms_available": 30,
+    "price_per_night": 210,
+    "rating": 4.3,
+    "facilities": ["Free WiFi", "Beach Access", "Restaurant", "Gym"],
+    "contact_number": "+34 93 123 4567",
+    "email": "contact@seasideinn.com",
+
+    "pets_allowed": true,
+    "rating_count": 370,
+    "distance_from_city_center": 3
+  },
+  {
+    "name": "Lakeside Lodge",
+    "location": "Zurich, Switzerland",
+    "rooms_available": 0,
+    "price_per_night": 280,
+    "rating": 4.4,
+    "facilities": ["Free WiFi", "Lake View", "Restaurant", "Gym"],
+    "contact_number": "+41 44 123 4567",
+    "email": "contact@lakesidelodge.com",
+
+    "pets_allowed": true,
+    "rating_count": 250,
+    "distance_from_city_center": 5
+  },
+  {
+    "name": "Urban Chic Hotel",
+    "location": "London, UK",
+    "rooms_available": 45,
+    "price_per_night": 260,
+    "rating": 4.6,
+    "facilities": ["Free WiFi", "Restaurant", "Bar", "Gym"],
+    "contact_number": "+44 20 1234 5678",
+    "email": "contact@urbanchic.com",
+    "pets_allowed": false,
+    "rating_count": 300,
+    "distance_from_city_center": 1
+  },
+  {
+    "name": "Forest Retreat",
+    "location": "Banff, Canada",
+    "rooms_available": 18,
+    "price_per_night": 190,
+    "rating": 4.3,
+    "facilities": ["Free WiFi", "Hiking Trails", "Restaurant", "Spa"],
+    "contact_number": "+1 403 123 4567",
+    "email": "contact@forestretreat.com",
+
+    "pets_allowed": true,
+    "rating_count": 200,
+    "distance_from_city_center": 12
+  },
+  {
+    "name": "Riverside Hotel",
+    "location": "Amsterdam, Netherlands",
+    "rooms_available": 28,
+    "price_per_night": 240,
+    "rating": 4.5,
+    "facilities": ["Free WiFi", "Restaurant", "Bar", "Gym"],
+    "contact_number": "+31 20 123 4567",
+    "email": "contact@riversidehotel.com",
+
+    "pets_allowed": false,
+    "rating_count": 280,
+    "distance_from_city_center": 2
+  },
+  {
+    "name": "Island Paradise Resort",
+    "location": "Phuket, Thailand",
+    "rooms_available": 40,
+    "price_per_night": 270,
+    "rating": 4.7,
+    "facilities": ["Free WiFi", "Beach Access", "Swimming Pool", "Spa"],
+    "contact_number": "+66 76 123 4567",
+    "email": "contact@islandparadise.com",
+    "pets_allowed": true,
+    "rating_count": 480,
+    "distance_from_city_center": 10
+  },
+  {
+    "name": "Cosy Cottage",
+    "location": "Edinburgh, Scotland",
+    "rooms_available": 12,
+    "price_per_night": 160,
+    "rating": 4.2,
+    "facilities": ["Free WiFi", "Breakfast Included", "Restaurant", "Bar"],
+    "contact_number": "+44 131 123 4567",
+    "email": "contact@cosycottage.com",
+
+    "pets_allowed": true,
+    "rating_count": 150,
+    "distance_from_city_center": 5
+  },
+  {
+    "name": "City Lights Hotel",
+    "location": "Las Vegas, USA",
+    "rooms_available": 50,
+    "price_per_night": 230,
+    "rating": 4.6,
+    "facilities": ["Free WiFi", "Casino", "Restaurant", "Bar"],
+    "contact_number": "+1 702 123 4567",
+    "email": "contact@citylightshotel.com",
+
+    "pets_allowed": false,
+    "rating_count": 410,
+    "distance_from_city_center": 2
+  },
+  {
+    "name": "Boutique Hotel",
+    "location": "Rome, Italy",
+    "rooms_available": 25,
+    "price_per_night": 250,
+    "rating": 4.7,
+    "facilities": ["Free WiFi", "Restaurant", "Bar", "Gym"],
+    "contact_number": "+39 06 123 4567",
+    "email": "contact@boutiquehotel.com",
+
+    "pets_allowed": true,
+    "rating_count": 420,
+    "distance_from_city_center": 1
+  },
+  {
+    "name": "Historic Inn",
+    "location": "Vienna, Austria",
+    "rooms_available": 30,
+    "price_per_night": 200,
+    "rating": 4.4,
+    "facilities": ["Free WiFi", "Restaurant", "Bar", "Gym"],
+    "contact_number": "+43 1 123 4567",
+    "email": "contact@historicinn.com",
+    "pets_allowed": true,
+    "rating_count": 330,
+    "distance_from_city_center": 3
+  },
+  {
+    "name": "Luxury Resort",
+    "location": "Maldives",
+    "rooms_available": 20,
+    "price_per_night": 400,
+    "rating": 4.8,
+    "facilities": ["Free WiFi", "Beach Access", "Swimming Pool", "Spa"],
+    "contact_number": "+960 123 4567",
+    "email": "contact@luxuryresort.com",
+    "pets_allowed": false,
+    "rating_count": 500,
+    "distance_from_city_center": 20
+  },
+  {
+    "name": "Countryside B&B",
+    "location": "Oxford, UK",
+    "rooms_available": 12,
+    "price_per_night": 160,
+    "rating": 4.2,
+    "facilities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Garden Access",
+      "Pet Friendly"
+    ],
+    "contact_number": "+44 1865 123 456",
+    "email": "contact@countrysidebnb.com",
+
+    "pets_allowed": true,
+    "rating_count": 120,
+    "distance_from_city_center": 6
+  },
+  {
+    "name": "Skyline Hotel",
+    "location": "Singapore",
+    "rooms_available": 45,
+    "price_per_night": 320,
+    "rating": 4.6,
+    "facilities": ["Free WiFi", "Rooftop Pool", "Restaurant", "Gym"],
+    "contact_number": "+65 1234 5678",
+    "email": "contact@skylinehotel.com",
+    "pets_allowed": false,
+    "rating_count": 400,
+    "distance_from_city_center": 2
+  },
+  {
+    "name": "Beachfront Hotel",
+    "location": "Sydney, Australia",
+    "rooms_available": 30,
+    "price_per_night": 280,
+    "rating": 4.5,
+    "facilities": ["Free WiFi", "Beach Access", "Restaurant", "Spa"],
+    "contact_number": "+61 2 1234 5678",
+    "email": "contact@beachfronthotel.com",
+
+    "pets_allowed": true,
+    "rating_count": 330,
+    "distance_from_city_center": 1
+  }
+]

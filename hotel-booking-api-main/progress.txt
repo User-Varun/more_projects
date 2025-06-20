@@ -1,0 +1,39 @@
+************* Tasks to implement **********************
+-abstarct the error handling middleware fn -done
+-setup production and development env - done
+-setup prod and dev error - done
+-casterrordb -done
+-handling duplicate data fields -- pending for later
+-validation-Error // spend almost 4 hours on this , the error was happening cause of destruturing the error obj , solution was to use Object.create();
+-cathing monogodb server error;
+-unhandled rejection -done 
+-unhandled exception error - done
+
+
+
+************* Previous Tasks *************************
+
+importing express (app.js) done 
+server.js done
+creating dotenv file , done!
+setting up controllers, routes,models
+added database
+creating document , getting all documents.
+saved all data at database 
+
+
+remaining tasks :-
+0. get all hotels  -done
+1. get one hotel (by id) -done
+2. create an hotel -done
+3. update hotels details ( by id) -done
+4. delete a hotel (by id) -done
+
+// implement sorting by :-
+1. rooms_available ( most to least) -done
+2. ratings -done
+3. price -done
+
+// implemented global error handling middleware -done
+
+// caught async errors - done

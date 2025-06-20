@@ -1,0 +1,92 @@
+/* Reset styles for consistent rendering */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Scoped Wrapper */
+.signupPage {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(
+    to right,
+    rgb(255 255 255),
+    rgb(37, 117, 252)
+  ); /* Background gradient */
+  min-height: 100vh; /* Allow scrolling if content overflows */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.container {
+  width: 400px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.registration-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; /* Spacing between form elements */
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: white;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background: #6a11cb;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background: #2575fc;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: #6a11cb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.habit-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.add-more-btn {
+  background-color: #ff5722;
+  color: white;
+}

@@ -1,0 +1,25 @@
+{
+  "short_name": "Media Player",
+  "name": "Media player ( hi mani 👋 )",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 16x16 64x64 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
